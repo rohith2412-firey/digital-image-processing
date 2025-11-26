@@ -1,0 +1,4 @@
+file1) implementing greyscale via desaturation,median cut,octree.
+file2) Implement k-means clustering-based rate distortion quatization for the images
+file3Frequency sampling: convert to greyscale, then sample frequency bands at 1/2, 1/4, 1/8, and 1/16; Spatial sampling: downsample image resolution by factors 1/2, 1/4, 1/8, and 1/16.
+
